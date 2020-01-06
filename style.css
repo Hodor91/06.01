@@ -1,0 +1,62 @@
+.container{
+    margin-top: 50px;
+   
+}
+
+img{
+    width: 100%;
+}
+h1{
+    padding-top: 80px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+h2{
+    padding-top: 80px;
+}
+p{
+    margin-top: 80px;
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+.press{
+    color: #fff;
+    background-color: #375a51;
+    border-color: #375a51;
+    margin-left:70%; 
+    border-radius: 5px;
+  }
+
+  .press :hover{
+    
+    background-color: lightgray;
+    border-color: #fff;
+    display: inline-block;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    
+}
+.nopress{
+    color: #fff;
+    background-color: #375a51;
+    border-color: #375a51;
+
+}
+
+#Subscribe{
+    padding-top: 30px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #375a51;
+    border-color: #375a51;}
+    
+.btn-primary:hover{
+    
+    background-color: lightgray;
+    border-color: #fff;
+    display: inline-block;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    
+}
+
