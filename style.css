@@ -1,0 +1,97 @@
+.container{
+    margin-top: 20px;
+    margin-bottom: 100px;
+    font-family: 'Inria Serif', serif;
+    
+}
+
+[class*=col-md-6]{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img{
+    width: 100%;
+}
+h1{
+    padding-top: 60px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+h2{
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+p{
+    
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+.press{
+    color: #fff;
+    background-color: #375a51;
+    border-color: #375a51;
+    margin-left:70%; 
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    -webkit-appearance: button;
+  }
+
+  .press:hover{
+    background-color: lightgray;
+    border-color: #fff;
+    display: inline-block;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    
+}
+.nopress{
+    color: #fff;
+    background-color: #375a51;
+    border-color: #375a51;
+    margin-left:70%; 
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    -webkit-appearance: button;
+
+}
+.nopress:hover{
+    background-color: lightgray;
+    border-color: #fff;
+    display: inline-block;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+#Subscribe{
+    padding-top: 30px;
+    padding-top: -10px;
+    
+}
+
+.submit {
+    color: #fff;
+    background-color: #375a51;
+    border-color: #375a51;
+    margin-left: 10%;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    -webkit-appearance: button;}
+    
+.submit:hover{
+    background-color: lightgray;
+    border-color: #fff;
+    display: inline-block;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
