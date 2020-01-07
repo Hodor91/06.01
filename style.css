@@ -22,11 +22,12 @@ h2{
     padding-top: 80px;
     padding-bottom: 20px;
 }
+
 p{
-    
     margin-bottom: 1rem;
     text-align: justify;
 }
+
 .press{
     color: #fff;
     background-color: #375a51;
@@ -38,16 +39,15 @@ p{
     font-weight: 400;
     font-size: 1rem;
     line-height: 1.5;
-    -webkit-appearance: button;
-  }
+}
 
-  .press:hover{
+.press:hover{
     background-color: lightgray;
     border-color: #fff;
     display: inline-block;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    
 }
+
 .nopress{
     color: #fff;
     background-color: #375a51;
@@ -59,9 +59,8 @@ p{
     font-weight: 400;
     font-size: 1rem;
     line-height: 1.5;
-    -webkit-appearance: button;
-
 }
+
 .nopress:hover{
     background-color: lightgray;
     border-color: #fff;
@@ -86,7 +85,7 @@ p{
     font-weight: 400;
     font-size: 1rem;
     line-height: 1.5;
-    -webkit-appearance: button;}
+}
     
 .submit:hover{
     background-color: lightgray;
